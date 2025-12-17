@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">快手自动刷视频</string>
+    <string name="accessibility_service_description">用于自动刷快手视频的无障碍服务</string>
+    
+    <!-- 主界面 -->
+    <string name="start_script">开始脚本</string>
+    <string name="pause_script">暂停</string>
+    <string name="resume_script">继续</string>
+    <string name="stop_script">停止</string>
+    <string name="script_status_ready">准备就绪</string>
+    <string name="script_status_running">脚本运行中</string>
+    <string name="script_status_paused">脚本已暂停</string>
+    <string name="script_status_stopped">脚本已停止</string>
+    <string name="enable_accessibility">开启无障碍权限</string>
+    <string name="accessibility_permission_required">请开启无障碍权限以使用自动刷视频功能</string>
+    
+    <!-- 悬浮窗 -->
+    <string name="floating_window_title">快手自动刷视频</string>
+    <string name="remaining_time">剩余时间: %s</string>
+    
+    <!-- 设置 -->
+    <string name="swipe_interval">滑动间隔</string>
+    <string name="run_duration">运行时长</string>
+    <string name="minutes">分钟</string>
+</resources>

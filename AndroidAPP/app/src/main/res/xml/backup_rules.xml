@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content>
+    <!--
+       Include only shared preferences and databases in backup.
+       For more information, see https://developer.android.com/guide/topics/data/autobackup
+    -->
+    <include domain="sharedpref" path="."/>
+    <include domain="database" path="."/>
+</full-backup-content>
